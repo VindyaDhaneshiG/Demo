@@ -1,0 +1,6 @@
+Hi Team,
+ 
+Please refer the below article on how to enable external Authentication Services for your application. 
+i.e. Facebook, Google … etc.
+ 
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/security/external-authentication-services
