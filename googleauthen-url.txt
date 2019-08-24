@@ -1,0 +1,1 @@
+https://damienbod.com/2017/06/16/angular-oidc-oauth2-client-with-google-identity-platform/
